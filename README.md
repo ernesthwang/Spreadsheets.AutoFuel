@@ -5,6 +5,7 @@ A simple spreadsheet for tracking gas purchases and keeping track of your car's 
 
 ![Gas.xlsx Spreadsheet](https://raw.github.com/perfectlyskewed/Spreadsheets.Gas/master/doc/images/Screenshot01.png "Gas.xlsx Excel Spreadsheet")
 
+
 ## How to use this spreadsheet
 
 ### Change the spreadsheet tab name
